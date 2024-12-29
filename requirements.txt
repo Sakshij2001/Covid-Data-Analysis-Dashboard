@@ -1,3 +1,4 @@
-dash==2.6.0
-panadas
+dash
+plotly
 gunicorn
+pandas
