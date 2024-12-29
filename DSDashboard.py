@@ -61,7 +61,7 @@ def create_covid_dropdown(id, options, default_values):
 
 
 # Create Dash app
-app = dash.Dash(__name__,suppress_callback_exceptions=True)
+app = dash.Dash(__name__)
 server = app.server
 
 # Define app layout
